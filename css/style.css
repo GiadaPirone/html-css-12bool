@@ -1,0 +1,9 @@
+body.debug .container{
+    background-color: pink;
+}
+
+.flex {display: flex; }
+.justify-center {justify-content: center;}
+
+
+.margin-bottom-2 {margin-bottom:2rem ;}
